@@ -1,0 +1,1 @@
+New-Service -Name MobaXterm -BinaryPathName "D:\Programs\HiStartSrv\HiStartSrv.exe D:\Programs\HiStartSrv\Services\MobaXterm.ini" -Description "MobaXterm" -DisplayName "MobaXterm" -StartupType Automatic
